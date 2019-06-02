@@ -1,0 +1,78 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkred;
+    text-align:center;
+    text-decoration: underline;
+}
+#Információk{
+    margin-left: 40%;
+    font-weight:"bold";
+    font-size: 20pt;
+    font-style: "italic";
+}
+body{
+    font-size: 20pt;
+    background-color: bisque;
+    color:brown;
+}
+#Viktor{
+align-self:"right";
+padding-left: 150px;
+width: 30%;
+height: 30%;
+
+}
+h2{
+    color: crimson;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#Hobbi{
+    margin-left: 40%;
+    font-weight:"bold";
+    font-size: 30pt;
+    font-style: "italic";
+}
+#Bayern{
+width: 40%;
+height: 40%;
+}
+#lol{
+    padding-right: 100px;
+    float:right;
+    width: 50%;
+height: 50%;
+}
+
+
+.Zene{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 30px;
+
+}
+#Nopressure{
+    margin-left: 5%;
+    font-style: italic;
+    text-decoration: underline;
+}
+#SAD{
+    margin-left: 5%;
+    font-style: italic;
+    text-decoration: underline;
+}
+#Sorry{
+    margin-left: 5%;
+    font-style: italic;
+    text-decoration: underline;
+}
+#peep{
+    margin-left: 5%;
+    font-style: italic;
+    text-decoration: underline;
+}
+#Vége{
+    color: blueviolet;
+    font-size: 40px;
+}

@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    background-image: url(../kep/suli+tabla+homaly.png);
+    margin-right: 1%;
+}
+
+#lap {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: azure;
+    box-shadow: 10px 20px rgba( 0, 0, 0, 0.5);
+    height: auto;
+    width: 70%;
+    max-width: 1150px;
+}
+
+#tan {
+    float: right;
+    background-color: rgba(29, 160, 204, 0.925);
+    width: 300px;
+    border: solid 3px darkblue;
+    margin: 1%;
+    padding: 3px;
+    font-weight: bold;
+    text-decoration: underline;
+    height: inherit;
+    color: aliceblue;
+    padding: 1%;
+}
+
+#head {
+    height: 10%;
+    width: 100%;
+}
+
+#neuheader {
+    width: 100%;
+}
+
+.tanbek {
+    margin-left: 15%;
+    font-weight: bold;
+    font-size: 14pt;
+    line-height: 200%;
+}
+
+#intro {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#osztkep {
+    margin: 1%;
+    width: 35%;
+    height: 20%;
+    float: left;
+}
+
+
+.bemszoveg {
+    text-align: justify;
+    font-size: 18pt;
+    margin-left: 2%;
+
+}
+
+#gif {
+    margin-right: 2%;
+    margin-top: 10px;
+    margin-left: 2%;
+    width: 40%;
+    height: 15%;
+    float: right;
+}
+
+hr {
+    border: solid black 3px;
+}
+
+#foot {
+    margin-top: 43px;
+    margin-bottom: 2%;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 2%;
+    size: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+td {
+    border-collapse: collapse;
+    border: 3px darkblue solid;
+    padding: 10px;
+    background-color: rgba(29, 160, 204, 0.925);
+}
+
+#cim2 {
+    font-size: 18pt;
+    text-decoration: underline;
+    margin-bottom: 3%;
+    margin-left: 5%; 
+}
+
+a {
+    color: darkred;
+}
+
+a:visited {
+    color: crimson;
+}
+
+a:hover {
+    color: red;
+}

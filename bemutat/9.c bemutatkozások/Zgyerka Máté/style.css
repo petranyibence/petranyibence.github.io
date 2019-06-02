@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: aqua;
+}
+body {
+    background: gray;
+}
+p {
+    line-height: 30px;
+}
+.kep {
+    height:300px;
+    width: 400px;
+}

@@ -1,0 +1,51 @@
+body{
+ width: 80%;
+  background-color: palegoldenrod;
+  margin-left: 10%;
+} 
+h1{
+ 
+}
+.Szöveg{
+ text-align: justify;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 25px;
+ padding-bottom: 20px;
+}
+h3{
+
+}
+img{
+ float: right;
+ margin-left: 10px;
+
+}
+#Sorozat{
+ list-style-image: url(Kepek/db.png) ;
+ margin-left: 20px;
+}
+
+#Hobby{
+ list-style-image: url(Kepek/bass.png);
+ margin-left: 20px;
+}
+a{
+text-decoration: none;
+color: cyan;
+float: right;
+font-size:35px;
+}
+
+a:visited{
+color: black;
+font-size: bold;
+
+}
+
+a:hover{
+ color: darkblue;
+ font-size: bold;
+}
+ul{
+    font-size: 20px;
+}

@@ -1,0 +1,19 @@
+h1,h2{
+    font-family:sans-serif;
+    background-color: white;
+    color: green;
+}
+body{
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    background:white;
+}
+p{
+    background: white;
+}
+.bemutatkozas{
+    font-family:sans-serif;
+    font-style:italic;
+}

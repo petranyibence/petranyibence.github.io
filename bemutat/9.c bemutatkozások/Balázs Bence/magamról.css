@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(221, 247, 255);
+}
+
+
+
+#afk {
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 410px;
+    height:310px;
+    float: left;
+    border: solid aquamarine 4px;
+    padding: 3px;
+    margin-right: 30px;
+    margin-left: 5px;
+}

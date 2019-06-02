@@ -1,0 +1,110 @@
+#bevezeto {
+    font-style: italic;
+    font-size: 18pt;
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-image: url(../kepek/131306.jpg);
+    color: darkred
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: crimson;
+}
+
+#minden {
+    background-color: cadetblue;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;  
+}
+
+#neu {
+    align-self: center;
+    width: 100%;
+}
+
+hr {
+    size: 100px;
+}
+
+#tablo {
+    float: right;
+    margin: 10px;
+    margin-top: 0px;
+    width: 25%;
+    height: 25%;
+}
+
+.hr1 {
+    float: left;
+    width: 73.5%;
+}
+
+hr {
+    border-color: orange;
+} 
+
+h2 {
+    color: crimson;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+.nagycella {
+    width: 200px;
+    padding: 10px;
+    border: 3px solid;
+    border-collapse: collapse;
+    border-color: orange;
+    background-color: rgba(0, 0, 255, 0.384);
+}
+
+table {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: aquamarine;
+    font-size: 16pt;
+    border: 5px solid;
+    border-color: orange;
+    border-collapse: collapse;
+    height: 50%;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+td {
+    border: solid 2px orange;
+    border-collapse: collapse;
+    text-align: center;
+    width: 30%;
+}
+
+#szinescella {
+    background-color: cyan;
+}
+
+.borderless {
+    border-top: none;
+    border-bottom: none;
+    font-size: 18pt;
+}
+
+#asd {
+    font-size: 16pt;
+    font-weight: bold;
+    margin: 30px;
+    text-align: justify;
+}

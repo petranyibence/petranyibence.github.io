@@ -1,0 +1,57 @@
+#profil{
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 1%;
+    margin: 10px;
+    width: 20%;
+    height:25% ;
+    
+}
+#bemutatkozas{
+    font-size: 18pt;
+    text-align: justify;
+    
+    
+}
+#osszes{
+    background-color:transparent;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+      
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: underline;
+}
+h2{
+    color: whitesmoke;
+    font-weight: bold;
+    margin-left: 22%;
+    text-decoration: underline;
+    
+}
+#isi{
+    font-size: 18pt;
+    text-align: justify;
+}
+ul{
+    font-weight: bold;
+    font-size: 16pt;
+    margin-left: 35%; 
+} 
+hr{
+    border-color: crimson;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;
+    background-image: url(kepek/Bdr7tm.png);
+}
+

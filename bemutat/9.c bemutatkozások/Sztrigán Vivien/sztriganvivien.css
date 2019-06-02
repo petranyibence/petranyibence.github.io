@@ -1,0 +1,67 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    background-image:url("kepek/sziv.jpg");
+}
+hr{
+    
+    background-color:black;
+    width: 55%;
+    display:block;
+    float:left;
+    margin-left:5px;
+}
+#tartalom {
+    width:75%;
+    padding:8px;
+    background-color:white;
+    margin:auto;
+}
+h1 {
+    margin:10px;
+}
+p{ margin-bottom: 5px;
+   line-height: 20px;
+   text-align: justify;
+}
+#en{
+    
+   height:160px;
+   width: 159px;
+   float: right;
+}
+#sor{
+    text-align: left;
+    line-height: 25px;
+}
+#tiki{
+     float: left;
+}
+#suti{
+    float: left;
+}
+#mat{
+
+    float: right;
+}
+
+#pin{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.kép{
+    width: 25%;
+    height: 200px;
+     display: block;     
+}
+.jobbra{
+    float: right;
+}
+#pinyo{
+    float: right;
+}
+
+img{
+    border-radius: 15px;
+}

@@ -1,0 +1,41 @@
+a:link{color:red;
+
+}
+a:visited {color: lime;
+
+}
+body {
+    background-image: url("images.jpg");
+    color :white;
+} 
+.kep{
+    width:300px;
+    height:450px;
+    
+}
+.duma{
+    text-align: center;
+    color: cyan ;
+    font-weight: bold;
+    border : 10px solid lime;
+    padding : 5px;
+}
+.vp{
+    color: lime;
+    font-family: 'Times New Roman', Times, serif;
+    padding : 10px;
+    border: 6px solid red;
+    
+}
+.vp2{
+    width : 100px;
+    height : 300px;
+}
+a{
+    font-style: italic;
+}
+.vmi{
+    text-align: right;
+    text-decoration: underline;
+    color: grey;
+}

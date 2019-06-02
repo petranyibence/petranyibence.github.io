@@ -1,0 +1,60 @@
+body{
+    width: 75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#content{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
+
+#header{
+   padding-left: 60px;
+}
+
+#profilkep{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+li.nyelv{
+    padding-bottom: 10px;
+    margin-left: 20px;
+    font-style: bold;
+    
+}
+
+li.adat{
+    padding-bottom: 10px;
+}
+
+h1{
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+}
+
+img.dgk{
+    float: left;
+    width: 40%;
+    margin-right: 30px;
+    
+}
+
+.middle{
+    
+    line-height: 52px;
+}
+
+a.dgk{
+    text-decoration: none;
+    color: black;
+
+}
+
+#keszitette{
+    float: right;
+    
+}

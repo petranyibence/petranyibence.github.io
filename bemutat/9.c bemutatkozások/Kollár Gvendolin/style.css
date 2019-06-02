@@ -1,0 +1,23 @@
+body{
+    background-image: url("game-of-thrones-wallpaper-49.jpg");
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: whitesmoke;
+    margin-left: 25px
+}
+h2{
+    color: whitesmoke;
+    text-align: left;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    color: whitesmoke;
+    margin-left: 25px
+}

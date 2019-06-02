@@ -1,0 +1,56 @@
+
+body {
+    background-color: rgb(90, 148, 223);
+}
+h7 {
+    text-align: center;
+    font-size: 35pt;
+    Color: rgb(119, 23, 23);
+    font-weight: bold;
+}
+
+h6 {
+    color: rgb(235, 117, 6);
+    font-size: 18pt;
+}
+a:link{
+Color: red;
+font-size: 15pt;
+}
+a:hover{
+    color: purple;
+}
+h5 {
+    font-size:18pt;
+}
+h4 {
+    font-size: 24pt;
+}
+li {
+    font-size: 18pt;
+}
+hr {
+  line-height: 6pt;
+}
+img {
+    float: right;
+}
+h3 {
+    font-size: 18pt;
+    Color: rgb(79, 32, 187);
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    background-color: pink;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+h1 { 
+    text-align: center;
+    font-weight: bold;
+    font-size: 30pt;
+    font-family: "Times New Roman";
+    Color: Blue;
+}

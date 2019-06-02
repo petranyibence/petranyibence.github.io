@@ -1,0 +1,34 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+
+}
+body {
+    margin: 150px;
+}
+#koszones {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50px;
+    color: dimgray;
+}
+body {
+    background-color: rgb(253, 242, 229);
+}
+.bevezeto{
+    font-size: 35px;
+    color: black;
+
+}
+#szoveg {
+    font-size: 25px;
+}
+table{
+    border: 3px solid black;
+    text-align: center;
+}
+#kepek {
+    width: 100px;
+    height: 50px;
+}
+

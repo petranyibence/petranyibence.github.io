@@ -1,0 +1,29 @@
+.elso{
+	font-size : 20px;
+	color : #b30000;
+}
+
+.masodik{
+	font-size : 18px;
+	color : #00e600;
+}
+
+#nev{
+	color : #0000cc;
+}
+
+a:link{
+	color: #00e600;
+}
+
+a:visited{
+	color: #00e600;
+}
+
+a:hover{
+	color: #00e600;
+}
+
+a:active{
+	color: #00e600;
+}
